@@ -1,5 +1,5 @@
 # Web-Security-Project
-# Laravel E-Commerce Web Security
+# Laravel E-Commerce 
 
 This project is a secure e-commerce web application built using Laravel as part of the Web Security course.
 
