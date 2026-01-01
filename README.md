@@ -1,10 +1,10 @@
 # 🔐 WebSec – Web & Security Course Project
-## Secure Laravel E-Commerce Application (Solo Project)
+## Secure Laravel E-Commerce Application (
 
 ---
 
 ## 📌 Overview
-Welcome to **WebSec**, a secure web application developed as a **solo project**
+Welcome to **WebSec**, a secure web application 
 as part of the **Web & Security course** at **ElSewedy University of Technology (SUT)**.
 
 This project focuses on building a **secure Laravel-based e-commerce system**
