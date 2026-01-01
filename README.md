@@ -1,5 +1,5 @@
 # 🔐 WebSec – Web & Security Course Project
-## Secure Laravel E-Commerce Application (
+## Secure Laravel E-Commerce Application 
 
 ---
 
